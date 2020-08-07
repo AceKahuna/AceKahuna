@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Javascript 🤓
 - 👯 I’m looking forward to contribute to open source projects
 - 🥅 2020 Goals: Be an agile Frontend developer
-- ⚡ Fun fact: I love to 🏊, watch movies 🍿, and listening music 💙
+- ⚡ Fun fact: I love to 🏊, watch movies 🍿, and listening to music 💙
 
 ### Connect with me:
 
