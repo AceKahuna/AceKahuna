@@ -34,6 +34,8 @@
 ---
 ---
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AceKahuna&show_icons=true&hide_border=true" />
+
 <!-- Definitions -->
 [Twitter]: https://twitter.com/kahunaTukei?s=09
 [LinkedIn]: https://www.linkedin.com/in/eric-akoten-79855417a
