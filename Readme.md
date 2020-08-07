@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AceKahuna | Twitter" width="50px" src="images/twitter.png" />][Twitter]
-[<img align="left" alt="AceKahuna | LinkedIn" width="50px" src="images/LinkedIn.png" />][LinkedIn]
-[<img align="left" alt="AceKahuna | Telegram" width="50px" src="images/telegram.png" />][Telegram]
+[<img align="left" alt="AceKahuna | Twitter" width="50px" src="https://github.com/AceKahuna/AceKahuna/blob/master/images/twitter.png" />][Twitter]
+[<img align="left" alt="AceKahuna | LinkedIn" width="50px" src="https://github.com/AceKahuna/AceKahuna/blob/master/images/LinkedIn.png" />][LinkedIn]
+[<img align="left" alt="AceKahuna | Telegram" width="50px" src="https://github.com/AceKahuna/AceKahuna/blob/master/images/telegram.png" />][Telegram]
 
 <br />
 <br />
