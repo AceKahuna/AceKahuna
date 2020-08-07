@@ -39,7 +39,8 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekahuna&layout=compact)](https://github.com/AceKahuna/github-readme-stats-1)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekahuna&layout=compact&theme=prussian)](https://github.com/AceKahuna?tab=repositories)
 
 <!-- Definitions -->
 [Twitter]: https://twitter.com/kahunaTukei?s=09
