@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-![<img align="left" alt="AceKahuna | Twitter" width="50px" src="./images/twitter.png" />][Twitter]
+[<img align="left" alt="AceKahuna | Twitter" width="50px" src="./images/twitter.png" />][Twitter]
 [<img align="left" alt="AceKahuna | LinkedIn" width="50px" src="./images/LinkedIn.png" />][Linkedin]
 [<img align="left" alt="AceKahuna | Telegram" width="50px" src="./images/telegram.png" />][Telegram]
 
