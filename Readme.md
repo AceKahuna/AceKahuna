@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="AceKahuna | Twitter" width="50px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F20-203801_twitter-social-media-icon-social-media-icon-png.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FioTTTw_twitter-social-media-icon-social-media-icon-png%2F&tbnid=DqIXs8tdI8jwhM&vet=12ahUKEwjyj8i-3IjrAhWCwIUKHYyRBIYQMygUegUIARDeAQ..i&docid=qhm2jyRgWKdhUM&w=860&h=563&q=twitter%20logo%20without%20background&hl=en&ved=2ahUKEwjyj8i-3IjrAhWCwIUKHYyRBIYQMygUegUIARDeAQ" />][Twitter]
+[<img align="left" alt="AceKahuna | Twitter" width="50px" src="./images/twitter.png" />][Twitter]
 [<img align="left" alt="AceKahuna | LinkedIn" width="50px" src="./images/LinkedIn.png" />][LinkedIn]
 [<img align="left" alt="AceKahuna | Telegram" width="50px" src="./images/telegram.png" />][Telegram]
 
@@ -34,6 +34,6 @@
 ---
 
 <!-- Definitions -->
-[Twitter] : https://twitter.com/kahunaTukei?s=09
-[LinkedIn] : https://www.linkedin.com/in/eric-akoten-79855417a
-[Telegram] : https://t.me/AceKahuna
+[Twitter]: https://twitter.com/kahunaTukei?s=09
+[LinkedIn]: https://www.linkedin.com/in/eric-akoten-79855417a
+[Telegram]: https://t.me/AceKahuna
