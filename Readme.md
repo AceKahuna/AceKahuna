@@ -34,7 +34,11 @@
 ---
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AceKahuna&show_icons=true&hide_border=true"&theme=prussian />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AceKahuna&show_icons=true&hide_border=true&theme=prussian" />
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Acekahuna)](https://github.com/Acekahuna/github-readme-stats)
 
 <!-- Definitions -->
 [Twitter]: https://twitter.com/kahunaTukei?s=09
