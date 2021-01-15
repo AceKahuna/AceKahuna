@@ -1,11 +1,11 @@
 # Jambo, I'm Eric aka Kahuna 👋
 
 ## I'm a Student, Writer, and Developer!
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently finishing up my portfolio
 -  ✍ I'm sharpening my Frontend Skills😄!
-- 🌱 I’m currently learning Javascript 🤓
+- 🌱 I’m currently learning Javascript🤓 and Python 🐍
 - 👯 I’m looking forward to contribute to open source projects
-- 🥅 2020 Goals: Be an agile Frontend developer
+- 🥅 2021 Goals: Be an agile Frontend developer 
 - ⚡ Fun fact: I love to 🏊, watch movies 🍿, and listening to music 💙
 
 ### Connect with me:
